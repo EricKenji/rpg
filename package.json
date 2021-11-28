@@ -1,0 +1,22 @@
+{
+  "name": "object-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricKenji/rpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricKenji/rpg/issues"
+  },
+  "homepage": "https://github.com/EricKenji/rpg#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
